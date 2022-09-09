@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console2Interfaces", "Console2Interfaces\Console2Interfaces.csproj", "{93D4A90A-14FF-42C8-85CA-05DE321EA91B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93D4A90A-14FF-42C8-85CA-05DE321EA91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D4A90A-14FF-42C8-85CA-05DE321EA91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D4A90A-14FF-42C8-85CA-05DE321EA91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D4A90A-14FF-42C8-85CA-05DE321EA91B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9847F73A-E7A3-4923-AC68-70338EC2753F}
+	EndGlobalSection
+EndGlobal
