@@ -1,3 +1,3 @@
-# PROJETOS EM CONSOLE DO CURSO DE C# 
+# **C# COURSE CONSOLE PROJECTS**
 
-Pasta de alocação de projetos em console na linguagem C#.
+## Repository for project allocation in console in C# language for object-oriented language study and practice.
